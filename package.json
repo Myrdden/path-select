@@ -1,0 +1,12 @@
+{
+	"name": "path-select",
+	"version": "0.1.0",
+	"author": "Myrdden",
+	"description": "Does XPath for Objects",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://"
+	},
+	"main": "select.js"
+}
